@@ -1,15 +1,23 @@
 {
-  "title": "First Test",
+  "title": "First Test with ZetaPush",
   "description": "First test with ZetaPush",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Initialize environment",
+        "text": "step1Initialize.md"
       },
       {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Create your application",
+        "text": "step2CreateApp.md"
+      },
+      {
+        "title": "Launch locally",
+        "text": "step3Launch.md"
+      },
+      {
+        "title": "Deploy to production",
+        "text": "step4Deploy.md"
       }
     ],
     "intro": {
