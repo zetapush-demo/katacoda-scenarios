@@ -31,6 +31,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "nodejs6"
+    "imageid": "node6"
   }
 }
