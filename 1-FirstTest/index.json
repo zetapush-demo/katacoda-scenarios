@@ -1,6 +1,6 @@
 {
-  "title": "First Test with ZetaPush",
-  "description": "First test with ZetaPush",
+  "title": "First Hello World with ZetaPush",
+  "description": "Create your first application with ZetaPush",
   "details": {
     "steps": [
       {
@@ -8,8 +8,8 @@
         "text": "step1Initialize.md"
       },
       {
-        "title": "Create your application",
-        "text": "step2CreateApp.md"
+        "title": "Analyse your application",
+        "text": "step2AnalyseApp.md"
       },
       {
         "title": "Launch locally",
