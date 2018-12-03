@@ -10,4 +10,4 @@ This command will send your worker and front code to ZetaPush cloud servers.
 
 `npm run deploy`{{execute}}
 
-That's it, you've deployed your first application with ZetaPush.
+That's it, you've deployed your first application on ZetaPush.

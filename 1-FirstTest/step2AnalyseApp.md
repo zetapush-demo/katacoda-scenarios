@@ -1,9 +1,8 @@
 # Analyse a ZetaPush application
 
-## The .zetarc
+## The .zetarc file
 
-Contains the developer’s credentials. Useful to deploy or run your code. The content is auto generated if the file is empty.
-
+This file contains the developer’s credentials. Useful to deploy or run your code. The content is auto generated if the file is empty.
 
 ## The worker directory
 
