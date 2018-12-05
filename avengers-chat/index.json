@@ -35,6 +35,14 @@
 			"text": "finish.md"
 		}
 	},
+	"assets": {
+		"client": [
+			{
+				"file": "../ZetaPushLogo.png",
+				"target" : "./"
+			}
+		]
+	},
 	"environment": {
 		"uilayout": "editor-terminal",
 		"uisettings": "javascript"

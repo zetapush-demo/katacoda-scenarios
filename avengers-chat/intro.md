@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://zetapush.com/">
-    <img src="../ZetaPushLogo.png" alt="ZetaPush logo" width="200"/>
+    <img src="./ZetaPushLogo.png" alt="ZetaPush logo" width="200"/>
   </a>
 <p>
 
