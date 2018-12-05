@@ -1,0 +1,45 @@
+{
+	"title": "Hello world React.js",
+	"description": "Create a basic React.js application to display 'Hello World' using a Custom Cloud Service",
+	"difficulty": "beginner",
+	"time": "10 minutes",
+	"details": {
+		"steps": [
+			{
+				"title": "Step 1 - Initialization",
+				"text": "step1-initialization.md"
+			},
+			{
+				"title": "Step 2 - Analyze your worker",
+				"text": "step2-worker.md",
+				"code": "clear.sh"
+			},
+			{
+				"title": "Step 3 - Analyze your front",
+				"text": "step3-front.md"
+			},
+			{
+				"title": "Step 4 - Run locally",
+				"text": "step4-run.md"
+			},
+			{
+				"title": "Step 5 - Deploy to production",
+				"text": "step5-deploy.md"
+			}
+		],
+		"intro": {
+			"text": "intro.md",
+			"credits": ""
+		},
+		"finish": {
+			"text": "finish.md"
+		}
+	},
+	"environment": {
+		"uilayout": "terminal",
+		"uisettings": "javascript"
+	},
+	"backend": {
+		"imageid": "node6"
+	}
+}

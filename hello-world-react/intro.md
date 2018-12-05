@@ -8,7 +8,7 @@
 
 Hello !
 
-I will show you how to quickly create a basic [Vue.js](https://vuejs.org) application to display "Hello World".
+I will show you how to quickly create a basic [React.js](https://reactjs.org) application to display "Hello World".
 
 [ZetaPush](https://www.zetapush.com/) is a back-end framework that allows you to create a serverless application using high level and remotely hosted services.
 
