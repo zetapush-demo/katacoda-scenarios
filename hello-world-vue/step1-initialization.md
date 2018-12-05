@@ -6,7 +6,7 @@ Clone project repository and install dependencies :
 
 `git clone https://github.com/zetapush/zetapush-examples.git --no-checkout`{{execute}}
 
-`git checkout HEAD hello-world/hello-world-vue`{{execute}}
+`cd zetapush-examples && git checkout HEAD hello-world/hello-world-vue`{{execute}}
 
 `cd hello-world/hello-world-vue && npm install`{{execute}}
 
