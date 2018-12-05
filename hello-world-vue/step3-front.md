@@ -31,6 +31,4 @@ export default {
 
 On button click, call `onClick()` method to invoke your worker method.
 
-```html
-&lt;button v-on:click="onClick()"&gt;call hello()&lt;/button&gt;
-```
+`<button v-on:click="onClick()"> call hello() </button>`
