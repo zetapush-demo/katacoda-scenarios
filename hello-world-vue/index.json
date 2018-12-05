@@ -1,6 +1,6 @@
 {
-	"title": "Avengers chat",
-	"description": "Create a realtime chat with ZetaPush",
+	"title": "Hello world Vue.js",
+	"description": "Create a basic Vue.js application to display 'Hello World' using a Custom Cloud Service",
 	"difficulty": "beginner",
 	"time": "10 minutes",
 	"details": {
