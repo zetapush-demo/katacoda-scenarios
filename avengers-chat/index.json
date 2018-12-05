@@ -1,0 +1,45 @@
+{
+	"title": "Avengers chat",
+	"description": "Create a realtime chat with ZetaPush",
+	"difficulty": "beginner",
+	"time": "10 minutes",
+	"details": {
+		"steps": [
+			{
+				"title": "Step 1 - Initialization",
+				"text": "step1-initialization.md"
+			},
+			{
+				"title": "Step 2 - Analyze your worker",
+				"text": "step2-worker.md",
+				"code": "clear.sh"
+			},
+			{
+				"title": "Step 3 - Analyze your Front",
+				"text": "step3-front.md"
+			},
+			{
+				"title": "Step 4 - Run locally",
+				"text": "step4-run.md"
+			},
+			{
+				"title": "Step 5 - Deploy to production",
+				"text": "step5-deploy.md"
+			}
+		],
+		"intro": {
+			"text": "intro.md",
+			"credits": ""
+		},
+		"finish": {
+			"text": "finish.md"
+		}
+	},
+	"environment": {
+		"uilayout": "editor-terminal",
+		"uisettings": "javascript"
+	},
+	"backend": {
+		"imageid": "node6"
+	}
+}
