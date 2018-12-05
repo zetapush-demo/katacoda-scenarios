@@ -20,7 +20,8 @@ On this application, we will use 3 services :
 
 We will cover these steps:
 
-1. Installing ZetaPush and creating a new application.
-2. Developing worker API (worker is used as interaction between the ZetaPush platform and your front).
-3. Writing UI and worker interaction.
-4. Building your app to be deployed to production.
+1. Installing ZetaPush and download application.
+2. Analyze your worker (worker is used as interaction between the ZetaPush platform and your front).
+3. Analyze your front and its interaction with worker.
+4. Run locally.
+5. Deploy to production.
