@@ -1,10 +1,8 @@
-### The integration of ZetaPush is really light.
+The integration of ZetaPush is really light.
 
-```console
-npm install @zetapush/client
-```
+`src` is a basic Vue.js application.
 
-Import `WeakClient` into your Vue component.
+`src/components/HelloWorld.vue` is the main component, with worker interaction.
 
 At component initialization in its lifecycle, create `WeakClient` (credentials are injected), and a ProxyTaskService to bridge with ZetaPush platform.
 
