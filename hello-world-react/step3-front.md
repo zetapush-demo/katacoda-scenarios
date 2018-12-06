@@ -33,4 +33,5 @@ class App extends Component {
 ```
 
 On button click, call `onClick()` method to invoke your worker method.
+
 `<button className="js-Hello" onClick={this.onClick}>call hello()</button>`
