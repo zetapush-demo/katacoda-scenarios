@@ -4,6 +4,9 @@
   <a href="https://zetapush.com/">
     <img src="https://www.zetapush.com/wp-content/uploads/2018/09/ZPlogo-websafe.png" alt="ZetaPush logo" width="200"/>
   </a>
+  <a href="https://angular.io/">
+    <img src="https://www.angular.io/assets/images/logos/angular/angular.svg" alt="Angular logo" width="200"/>
+  </a>
 <p>
 
 Hello !

@@ -1,8 +1,11 @@
 # Introduction
 
 <p align="center">
-  <a href="https://zetapush.com/">
+  <a href="https://zetapush.com">
     <img src="https://www.zetapush.com/wp-content/uploads/2018/09/ZPlogo-websafe.png" alt="ZetaPush logo" width="200"/>
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React.js logo" width="200"/>
   </a>
 <p>
 

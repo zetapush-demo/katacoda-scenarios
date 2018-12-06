@@ -4,6 +4,9 @@
   <a href="https://zetapush.com/">
     <img src="https://www.zetapush.com/wp-content/uploads/2018/09/ZPlogo-websafe.png" alt="ZetaPush logo" width="200"/>
   </a>
+  <a href="https://vuejs.org/">
+    <img src="https://vuejs.org/images/logo.png" alt="ZetaPush logo" width="200"/>
+  </a>
 <p>
 
 Hello !
