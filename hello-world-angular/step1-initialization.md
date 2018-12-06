@@ -8,7 +8,7 @@ Clone project repository and install dependencies :
 
 `cd zetapush-examples && git checkout HEAD hello-world/hello-world-angular`{{execute}}
 
-`cd hello-world/hello-world-angular && (npm install && cd src && npm install)`{{execute}}
+`cd hello-world/hello-world-angular && npm install`{{execute}}
 
 Project structure:
 ```console
