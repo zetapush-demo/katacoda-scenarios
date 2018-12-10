@@ -1,4 +1,4 @@
-Build Vue.js application :
+Build Angular application :
 
 `npm run build -- --prod`{{execute}}
 
