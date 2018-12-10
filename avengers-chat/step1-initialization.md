@@ -1,6 +1,6 @@
 You must create an account on ZetaPush platform, for this, [CONTACT US](https://www.zetapush.com/sign-up-for-a-free-trial).
 
-After that, you will receive a login, a password, and a appName (an unique ID representing your worker on our platform).
+After that, you will receive a login and a password.
 
 Clone project repository and install dependencies :
 
