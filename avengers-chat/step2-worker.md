@@ -100,7 +100,7 @@ export default class AvengersApi {
 
 In this worker class :
 
-- requestContext is ((insert explanation from doc))
+- requestContext is an unique ID which is used by the worker to know the caller context, to identify the client. It is injected, don't worry about its initialization.
 - CONVERSATION_ID and CHANNEL_MESSAGING are constants, but we can easily turn them into variables to extend our avengers-chat.
 
 Now, let's analyze the front content.
